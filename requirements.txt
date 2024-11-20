@@ -1,0 +1,14 @@
+pandas
+numpy
+keras
+tqdm
+opencv-python==4.5.2.52
+
+pillow
+matplotlib
+seaborn
+scipy
+scikit-learn
+scikit-image
+tensorflow
+imblearn
