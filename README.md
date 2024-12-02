@@ -41,5 +41,6 @@ This project leverages several powerful Python libraries including:
 
 ### Credentials
 
-This repository holds the training setup used for research submitted to the journal *Electronics* for the article ** written by Tomasz Marciniak and Agnieszka Stankiewicz. 
+This repository holds the training setup used for research submitted to the journal *Electronics* for the article *Impact of Histogram Equalization on the Classification of Retina Lesions from OCT B-scans* written by Tomasz Marciniak and Agnieszka Stankiewicz.
+
 Should you have any questions don't hessitate to contact us at: tomasz.marciniak [at] put.poznan.pl or agnieszka.stankiewicz [at] put.poznan.pl.
